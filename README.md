@@ -5,7 +5,7 @@ I am not a professional developer, but a biology student. My involvement in this
 
 <!-- 联系方式 -->
 ## 📫 How to reach me
-- Email: <a href="mailto:hmaoraze@qq.com">i@hmao.top</a>
+- Email: <a href="mailto:hmaoraze@qq.com">hmaoraze@qq.com</a>
 - Website: <a href="https://www.hsmao.cn" target="_blank">www.hsmao.cn</a>
 
 <!-- 技能标签 -->
