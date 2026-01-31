@@ -21,7 +21,6 @@ I am not a professional developer, but a biology student. My involvement in this
 <div align="center">
   <a href="https://github.com/hmaoraze">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmaoraze&layout=compact&langs_count=6&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmaoraze&show_icons=true&hide=contribs&theme=tokyonight" />
   </a>
 </div>
 
